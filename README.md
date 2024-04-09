@@ -1,6 +1,6 @@
 ## ASD-geocint
 This is an example makefile created to demonstrate how to create and use targets as part of the ETL process using Geocint.
-extract, transform, load (ETL) is a three-phase process where data is extracted, transformed (cleaned, sanitized, scrubbed) and loaded into an output data container.
+Code in this repo allows you to generate 3d population map for [2023 Eartquake in Turkey and Syria](https://en.wikipedia.org/wiki/2023_Turkey%E2%80%93Syria_earthquakes) using [Kontur Population dataset](https://data.humdata.org/dataset/kontur-population-dataset?).
 
 
 ## Installation:
