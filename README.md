@@ -26,6 +26,6 @@ make data/out/hex_intensity/hex_intensity_map.html
 
 ## Example:
 
-<img src='map.png' width='700'>
+<img src='map.png' width='900'>
 
 [example html file with 3d population map](https://github.com/frolui/asd-geocint/blob/master/hex_intensity_map_example.html)
