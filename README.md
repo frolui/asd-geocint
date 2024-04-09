@@ -26,11 +26,4 @@ make data/out/hex_intensity/hex_intensity_map.html
 
 ## Example:
 
-<div>
-  <iframe id="inlineFrameExample"
-      title="Inline Frame Example"
-      width="300"
-      height="200"
-      src="https://github.com/frolui/asd-geocint/blob/master/hex_intensity_map_example.html">
-  </iframe>
-</div>
+[example html file with 3d population map](https://github.com/frolui/asd-geocint/blob/master/hex_intensity_map_example.html)
